@@ -5,7 +5,7 @@
 - ⚙ Backend: [SocialMedia_Backend](https://github.com/ALIM23700/SocialMedia_Backend)  
 
 ## 🌟 Live Demo
-[Click here to view the live app](#)  https://social-media-frontend-sigma-rosy.vercel.app/
+[Click here to view the live app](https://social-media-frontend-sigma-rosy.vercel.app/)
 
 ## 🧩 Project Overview
 This is a full-stack social media application built with React (frontend) and Node.js + Express (backend).  
@@ -47,23 +47,36 @@ Follow the instructions in each repo to set up and run the project.
 ## 📸 Screenshots
 
 ### Home Feed
-![Home Feed](screenshots/Home.png)
+![Home1](screenshots/Home1.png)  
+![Home2](screenshots/Home2.png)
 
-### Register & Login
-![Register Page](screenshots/Register.png)  
-![Login Page](screenshots/Login.png)
-
-### Stories & Posts
-![Stories](screenshots/Stories.png)  
-![Post Feed](screenshots/PostFeed.png)  
+### Explore & Reels
+![Explore](screenshots/Explore.png)  
+![Reels](screenshots/Reels.png)
 
 ### Chat & Notifications
-![Chat](screenshots/Chat.png)  
-![Notifications](screenshots/Notifications.png)
+![Message](screenshots/Message.png)  
+![Notification](screenshots/Notification.png)
 
-### User Profile & Explore
-![Profile Page](screenshots/Profile.png)  
-![Explore Page](screenshots/Explore.png)  
+### Post & Create
+![Create Post](screenshots/CreatePost.png)  
+![Like & Comment](screenshots/Like-Comment.png)
 
-### Reels
-![Reels Page](screenshots/Reels.png)
+### Stories & Suggestions
+![Story](screenshots/Story.png)  
+![Suggestions](screenshots/Suggetions.png)
+
+### User Profile & Auth
+![Profile](screenshots/Profile.png)  
+![Login](screenshots/Login.png)  
+![Register](screenshots/Register.png)
+
+## 🚀 Future Scope
+- Edit profile functionality  
+- Save & share posts  
+- Story highlights  
+- Advanced search & explore filters  
+- Push notifications  
+- Post tagging & mentions  
+- Dark mode  
+- Analytics/dashboard for user engagement  
