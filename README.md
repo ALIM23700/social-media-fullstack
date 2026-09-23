@@ -1,5 +1,7 @@
 # 🌐 Fullstack Social Media App
 
+📌 Showcase Repository: This repository serves as a showcase for the project. The source code is maintained in separate frontend and backend repositories.
+
 ## 🔗 Project Repositories
 - 💻 Frontend: [SocialMedia_Frontend](https://github.com/ALIM23700/SocialMedia_Frontend)  
 - ⚙ Backend: [SocialMedia_Backend](https://github.com/ALIM23700/SocialMedia_Backend)  
@@ -36,7 +38,7 @@ The app features a responsive design for desktop and mobile, with a modern UI/UX
 - This README → provides project overview, features, and repo links  
 
 ## ⚙️ Setup Instructions
-This showcase repo does not contain the actual code.  
+This repository serves as a showcase for the project. The source code is maintained in separate frontend and backend repositories.
 To run the project locally, please check the individual repositories:  
 
 - **Frontend:** [SocialMedia_Frontend](https://github.com/ALIM23700/SocialMedia_Frontend)  
